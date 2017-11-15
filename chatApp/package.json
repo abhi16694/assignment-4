@@ -1,0 +1,14 @@
+{
+  "name": "chatApp",
+  "version": "0.0.1",
+  "description": "Live Chat using Socket.io",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest",
+    "express-session": "latest",
+    "connect-redis": "latest",
+    "mongoose": "latest"
+  }
+}
