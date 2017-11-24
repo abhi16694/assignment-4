@@ -26,3 +26,11 @@
 - The chat between users is shown in the blue box on the top left hand side corner of the application.
 - When any user closes his/her tab or disconnects it will show notification to other users about the same who are still connected.
 - You can see your chat history on that blue box whenever you like, but before your disconnection.
+
+### Information on how to run the application:-
+
+- Open Command Prompt in that go to the directory where the application folder is saved using "cd" command.
+- In that folder go the chatApp folder and type "npm install" this will install the node modules which are necessary for this application to run.
+- You also have had to pre install mongodb and make the database connected, preferably on another command prompt. 
+- After that type "node index.js" to run the application.
+- Access it on Localhost:1600.
