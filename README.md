@@ -16,3 +16,13 @@
 - Notifications are given very specifically every time their is a change in number of users or if any of them login or logout.
 - The information about scopes and which module is for what; these type of informations are explained by comments before and after the blocks.  
 - Link of the hosted code on the github (https://github.com/abhi16694/assignment-4.git).
+
+
+### Information about the application and on how to use it:-
+
+- When the site is opened it will ask for a user name as a prompt pop up.
+- After that it will show that name in the application screen with the number of user online now.
+- Whenever a user try to type something the application will show notification to other users about which user is now typing.
+- The chat between users is shown in the blue box on the top left hand side corner of the application.
+- When any user closes his/her tab or disconnects it will show notification to other users about the same who are still connected.
+- You can see your chat history on that blue box whenever you like, but before your disconnection.
