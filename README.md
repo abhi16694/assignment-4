@@ -18,7 +18,7 @@
 - Link of the hosted code on the github (https://github.com/abhi16694/assignment-4.git).
 
 
-### Information about the application and on how to use it:-
+### Information about the application and how to use it:-
 
 - When the site is opened it will ask for a user name as a prompt pop up.
 - After that it will show that name in the application screen with the number of user online now.
